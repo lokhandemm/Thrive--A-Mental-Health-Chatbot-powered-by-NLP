@@ -4,7 +4,7 @@
 
 ---
 
-## Project Overview
+## Project Overview 
 
 In today’s fast-paced world, mental health issues like stress, anxiety, and loneliness are common, especially among youth. Thrive aims to create a safe, judgment-free space where users can share how they feel and receive supportive responses or guidance—without waiting or fear of stigma.
 
