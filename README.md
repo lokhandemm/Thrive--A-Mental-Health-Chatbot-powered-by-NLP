@@ -1,4 +1,4 @@
-# Thrive – Mental Health Chatbot   
+# Thrive – Mental Health Chatbot    
      
 **Thrive** is a hybrid AI chatbot designed to offer emotional support and promote mental wellness through accessible, 24/7 assistance. It combines retrieval-based and generative models to provide thoughtful, medically accurate responses to users experiencing stress, anxiety, or emotional discomfort.
 
